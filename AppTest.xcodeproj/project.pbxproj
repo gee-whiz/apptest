@@ -330,8 +330,13 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: ECA Internet (PTY) LTD";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = XG8766C4Q9;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = AppTest/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = co.za.immedia.aaptest.AppTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "a8d1f15e-27cb-42a3-9f5b-f1334d94d2c5";
@@ -349,8 +354,13 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: ECA Internet (PTY) LTD";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = XG8766C4Q9;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = AppTest/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = co.za.immedia.aaptest.AppTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "a8d1f15e-27cb-42a3-9f5b-f1334d94d2c5";
