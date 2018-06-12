@@ -330,9 +330,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: ECA Internet (PTY) LTD";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = XG8766C4Q9;
-				ENABLE_BITCODE = NO;
+				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = AppTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -354,9 +354,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: ECA Internet (PTY) LTD";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = XG8766C4Q9;
-				ENABLE_BITCODE = NO;
+				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = AppTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
